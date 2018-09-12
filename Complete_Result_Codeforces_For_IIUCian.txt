@@ -1,3 +1,6 @@
+[The result is from July, 5 to September, 13 of the month 2018 for those contestants available in student_details.csv / student_details.xlsx]
+
+
 Contest Link : http://codeforces.com/contest/1003/standings
 
 Rank 1 : Md Minhazul Islam
